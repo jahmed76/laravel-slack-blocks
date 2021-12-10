@@ -1,12 +1,17 @@
 {
-    "name": "nathanheffley/laravel-slack-blocks",
+    "name": "jahmed76/laravel-slack-blocks",
     "description": "Slack Blocks support for laravel notifications.",
-    "keywords": ["laravel", "notifications", "slack", "blocks"],
+    "keywords": [
+        "laravel",
+        "notifications",
+        "slack",
+        "blocks"
+    ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Nathan Heffley",
-            "email": "nathan@nathanheffley.com"
+            "name": "Jawad Ahmed",
+            "email": "contact@jahmed.me"
         }
     ],
     "require": {
