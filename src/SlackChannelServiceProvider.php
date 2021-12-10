@@ -5,6 +5,7 @@ namespace NathanHeffley\LaravelSlackBlocks;
 use GuzzleHttp\Client as HttpClient;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Notification;
+use Illuminate\Notifications\ChannelManager;
 
 class SlackChannelServiceProvider extends ServiceProvider
 {
