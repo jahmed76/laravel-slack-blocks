@@ -7,7 +7,7 @@ This package is an extension of the official `laravel/slack-notification-channel
 Instead of requiring the official package, you should require this one instead.
 
 ```
-composer require nathanheffley/laravel-slack-blocks
+composer require jahmed76/laravel-slack-blocks
 ```
 
 Because this package is built on top of the official one, you'll have all the functionality found in the [official docs](https://laravel.com/docs/5.8/notifications#slack-notifications).
